@@ -37,6 +37,12 @@ Every AI interaction should improve software quality while reducing cognitive lo
 ├── CLAUDE.md
 ├── AGENTS.md
 ├── prompts.md
+├── architecture-review.md
+├── system-design-checklist.md
+├── code-review-checklist.md
+├── incident-response.md
+├── engineering-principles.md
+└── LICENSE
 ```
 
 ---
