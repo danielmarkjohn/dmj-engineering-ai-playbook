@@ -1,5 +1,5 @@
 # CLAUDE.md
-<!-- v2.0 — Last updated: 2026-06 -->
+<!-- v2.0 — Last updated: 2026-03-19 -->
 
 ---
 
